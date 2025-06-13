@@ -49,6 +49,7 @@ pip install pandas scikit-learn matplotlib
 5. **Model Training**: Splits data (50/50) and trains logistic regression model
 6. **Evaluation**: Generates accuracy score and confusion matrix
 7. **Visualization**: Displays confusion matrix heatmap
+![image](https://github.com/user-attachments/assets/0bc0d7e9-ef5d-45bf-9bad-5631a2c47c7b)
 
 ## Usage
 
